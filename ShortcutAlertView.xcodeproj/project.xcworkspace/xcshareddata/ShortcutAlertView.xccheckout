@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>50E19A72-7E08-4342-A019-B3C00EE47AC4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShortcutAlertView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>25E1F092-21B1-41EE-859B-9CA0F316132B</key>
+		<string>ssh://git.stupeflix.com/francescu/ios_bot_test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ShortcutAlertView/ShortcutAlertView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>25E1F092-21B1-41EE-859B-9CA0F316132B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.stupeflix.com/francescu/ios_bot_test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>25E1F092-21B1-41EE-859B-9CA0F316132B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>25E1F092-21B1-41EE-859B-9CA0F316132B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios_bot_test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
